@@ -1,0 +1,14 @@
+C:\CSProjects\A1ShaneeLabaniego\bin\Debug\net8.0\A1ShaneeLabaniego.exe
+C:\CSProjects\A1ShaneeLabaniego\bin\Debug\net8.0\A1ShaneeLabaniego.deps.json
+C:\CSProjects\A1ShaneeLabaniego\bin\Debug\net8.0\A1ShaneeLabaniego.runtimeconfig.json
+C:\CSProjects\A1ShaneeLabaniego\bin\Debug\net8.0\A1ShaneeLabaniego.dll
+C:\CSProjects\A1ShaneeLabaniego\bin\Debug\net8.0\A1ShaneeLabaniego.pdb
+C:\CSProjects\A1ShaneeLabaniego\obj\Debug\net8.0\A1ShaneeLabaniego.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSProjects\A1ShaneeLabaniego\obj\Debug\net8.0\A1ShaneeLabaniego.AssemblyInfoInputs.cache
+C:\CSProjects\A1ShaneeLabaniego\obj\Debug\net8.0\A1ShaneeLabaniego.AssemblyInfo.cs
+C:\CSProjects\A1ShaneeLabaniego\obj\Debug\net8.0\A1ShaneeLabaniego.csproj.CoreCompileInputs.cache
+C:\CSProjects\A1ShaneeLabaniego\obj\Debug\net8.0\A1ShaneeLabaniego.dll
+C:\CSProjects\A1ShaneeLabaniego\obj\Debug\net8.0\refint\A1ShaneeLabaniego.dll
+C:\CSProjects\A1ShaneeLabaniego\obj\Debug\net8.0\A1ShaneeLabaniego.pdb
+C:\CSProjects\A1ShaneeLabaniego\obj\Debug\net8.0\A1ShaneeLabaniego.genruntimeconfig.cache
+C:\CSProjects\A1ShaneeLabaniego\obj\Debug\net8.0\ref\A1ShaneeLabaniego.dll
